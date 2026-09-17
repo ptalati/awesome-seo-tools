@@ -235,6 +235,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Person Schema Generator for Author Pages](https://bethwoodcock.neocities.org/tools/person-schema-generator) - Specifies what is needed for Person schema on Author pages.
 - [Case Study Schema Suite](https://bethwoodcock.neocities.org/tools/case-study-schema-generator) - Connects portfolio pages to individual case studies.
 - [Schemantra](https://schemantra.com) - Validates and monitors your structured data, alerting you when issues crop up.
+- [BrainFeed Schema Markup Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON LD generators for LocalBusiness, Article and FAQPage. Groups fields as required, recommended or optional based on Google's documentation and tells you whether Google still shows a rich result for each type. No signup.
 
 ## Page Speed and Core Web Vitals
 
